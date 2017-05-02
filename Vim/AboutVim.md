@@ -1,0 +1,20 @@
+"=========== Meta ============
+"StrID : 31
+"Title : About Vim
+"Slug  : about-vim
+"Cats  : Vim
+"Tags  : 
+"=============================
+"EditType   : post
+"EditFormat : markdown
+"BlogAddr   : http://www.cguan.net/
+"========== Content ==========
+
+I tried to hug vim several times but all failed. And now, finally, I conquer vim. I tried a lot of editors. 
+Firs on, Visual Studio. A huge IDE. I don't like it. Too much things crowded together. While maybe they are necessary for a C developer. 
+Then eclipse. The same problem with vs.  I used it when I learned Java. And I developed Android program for a short time. You know, must use eclipse. 
+I tried notepad++ several times. It is very good. I am still using it if I edit something on Windows. But I transfered to Mac when I am a graduated student. 
+I was assigned to develop an iOs APP and I got a Macbook Pro. At first, of course I use xcode to edit objective-C files. Xcode is good to work with iOs project, but for the other things, like editing python code, just so so. 
+Then I find textmate. Perfect. Somebody suggest sublimeText. I tried. It is not my dish. With textmate, I pursue to be more efficiency. I depends on shortcuts more and more. And one day, I heard about a magic thing vim plugin. With textmate, I know exactly what I need in an editor and vim plugin can meet all these requirements. With no more than one month's study, I transfered to vim totally. 
+Actually, vim is my first editor. When I was a freshman in the university, we are forced to use vim to develop c program on the C course. I know nothing about programing, OS or computer at that time. It is a nightmare with vim and I discarded vim at once after I finished the course. After a big loop, I get back to vim. 
+This blog is edited by vim and submited by vim.
