@@ -24,3 +24,5 @@
 * [python-mode](https://github.com/python-mode/python-mode) Python support
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) Vim git support
 * [LanguageTools](http://www.vim.org/scripts/script.php?script_id=3223) Grammar check based on LanguageTool. Not installed by vundle.
+* [nerdcommenter](https://github.com/scrooloose/nerdcommenter) Comment functions
+* [tabular](https://github.com/godlygeek/tabular) Vim script for text filtering and alignment
